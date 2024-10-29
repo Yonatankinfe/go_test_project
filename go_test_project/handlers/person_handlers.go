@@ -1,8 +1,8 @@
 package handlers
 
 import (
-    "github.com/Ephrem-shimels21/GoCrudChallenge/models"
-    "github.com/Ephrem-shimels21/GoCrudChallenge/storage"
+    "github.com/Yonatankinfe/go_test_progect/models"
+    "github.com/Yonatankinfe/go_test_project/storage"
     "github.com/gin-gonic/gin"
     "net/http"
 )
