@@ -1,9 +1,9 @@
 package config
 
 import (
-    "github.com/Ephrem-shimels21/GoCrudChallenge/models"
-    "github.com/Ephrem-shimels21/GoCrudChallenge/storage"
-    "github.com/gin-contrib/cors"
+    "github.com/Yonatankinfe/go_test_project/models/person.go"
+    "github.com/Yonatankinfe/go_test_project/storage/person_storage.go"
+    
     "github.com/gin-gonic/gin"
 )
 
