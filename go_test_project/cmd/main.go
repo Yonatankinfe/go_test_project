@@ -2,8 +2,8 @@ package main
 
 import (
     "log"
-    "github.com/Ephrem-shimels21/GoCrudChallenge/config"
-    "github.com/Ephrem-shimels21/GoCrudChallenge/routes"
+    "github.com/Yonatankinfe/go_test_project/config/config.go"
+    "github.com/Yonatankinfe/go_test_project/routes"
     "github.com/gin-gonic/gin"
 )
 
